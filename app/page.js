@@ -31,7 +31,7 @@ const page = () => {
                 <ShieldPlus size={64} />
               </div>
               <div className="text-center text-purple-300 font-medium">
-              Verify your identity for library access, labs, and more using cutting-edge decentralized technology.
+              Verify your identity anywhere like library access, labs, and more using cutting-edge decentralized technology.
               </div>
             </div>
 

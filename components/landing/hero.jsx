@@ -30,7 +30,7 @@ export const Hero = () => {
           </h2>
           <h6 className="text-xl font-medium mb-5">
             Your key to effortless shopping, secure identity verification, and
-            hassle-free campus activities.
+            hassle-free activities.
           </h6>
         </div>
         <div className="flex-1"></div>
