@@ -207,7 +207,7 @@ const Page = () => {
                       {latestData.Full_Name}
                     </p>
                     <p className="text-sm text-white/70">
-                      Matric Number:
+                      Unique ID:
                       <div>{latestData.Matric_Number || "N/A"}</div>
                     </p>
                   </div>
@@ -243,7 +243,7 @@ const Page = () => {
                       Valid till : 20/09/25
                     </p>
                     <small className="items-center text-center block text-white px-1 mt-2">
-                      This ID should be returned to the University ICT center if
+                      This ID should be returned to the Institution ICT center if
                       found
                     </small>
                   </div>
@@ -279,7 +279,7 @@ const Page = () => {
             <small>
               <i className="text-white">
                 The QR code will be used to confirm your identity in the
-                school's ICT Center
+                institution's ICT Center
               </i>
             </small>
           </div>

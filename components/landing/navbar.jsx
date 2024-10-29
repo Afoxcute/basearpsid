@@ -27,7 +27,7 @@ export const LandingNavbar = () => {
           <div>
             <DiamondPlus />
           </div>
-          <div>UniToken</div>
+          <div>BasearpsID</div>
         </Link>
 
         <div>

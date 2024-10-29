@@ -15,8 +15,8 @@ import Providers from "./providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Unitoken",
-  description: "Seamless Campus Experience: Identity, Payments, and Access",
+  title: "BasearpsID",
+  description: "Seamless Institution Experience: Identity, Payments, and Access",
 };
 
 export default function RootLayout({ children }) {

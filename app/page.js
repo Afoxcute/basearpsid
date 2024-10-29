@@ -22,7 +22,7 @@ const page = () => {
       <div>
         <div className="w-[90%] mx-auto py-16">
           <div className="text-center text-3xl font-medium">
-            <h4>Why Choose UniToken</h4>
+            <h4>Why Choose BasearpsID</h4>
           </div>
 
           <div className="grid lg:grid-cols-3 gap-10 pt-10">
@@ -40,7 +40,7 @@ const page = () => {
                 <Coins size={64} />
               </div>
               <div className="text-center text-purple-300 font-medium">
-              Make quick and secure payments at campus shops using crypto or fiat through your connected wallet.
+              Make quick and secure payments at Institution shops using crypto or fiat through your connected wallet.
               </div>
             </div>
 
@@ -49,7 +49,7 @@ const page = () => {
                 <Wallet size={64} />
               </div>
               <div className="text-center text-purple-300 font-medium">
-              Browse and shop from your favorite campus stores, all in one place.
+              Browse and shop from your favorite Institution stores, all in one place.
               </div>
             </div>
           </div>
@@ -62,7 +62,7 @@ const page = () => {
                 <div>
                     <DiamondPlus />
                 </div>
-                <div>UniToken</div>
+                <div>BasearpsID</div>
           </Link>
 
           {/* <div>

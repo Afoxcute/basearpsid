@@ -113,7 +113,7 @@ function AuthUser() {
               variants={inputVariants}
               custom={0}
             >
-              <label className="text-white/60">Matric Number</label>
+              <label className="text-white/60">Unique ID(Matric Number, Staff ID, etc)</label>
               <motion.input
                 className="border-b-2 bg-transparent border-purple-900 focus:outline-none text-white/60 w-full max-w-xs"
                 type="text"
