@@ -99,7 +99,7 @@ function AuthUser() {
               {/* Welcome, {user.fullName}. */}
             </p>
             <p className="text-white/60 mb-4 ">
-              Confirm Details To Request/Access Your University ID
+              Confirm Details To Request/Access Your Institution ID
             </p>
           </motion.div>
 
